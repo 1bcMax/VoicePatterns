@@ -139,7 +139,296 @@
       "voiceStyle": "Practical instructor - opportunity-focused efficiency in rewards and points optimization",
       "valueContribution": "Farming tactics and protocol tools for reward maximization",
       "keyExample": "Here are 6 opportunities to maximize your spice points farm [detailed strategies]"
-    }
+    },
+  {
+    "name": "DeFi Queen",
+    "handle": "@defiqueen01",
+    "domain": "Crypto Trading and Memes",
+    "thinkingPattern": "Highlights breakout opportunities with contract details and hype-building, using visuals for emphasis",
+    "voiceStyle": "Promotional trader - enthusiastic and opportunity-spotting in meme coins and partnerships",
+    "valueContribution": "Shares token alerts and strategic investments for quick gains in BSC and ERC ecosystems",
+    "keyExample": "Perps DEXs are the hottest topic on CT right now. It's great to see DeFi is taking over. I am highly confident that the next Binance will be built on-chain." 
+
+  },
+  {
+    "name": "Stephen TCG",
+    "handle": "@phtevenstrong",
+    "domain": "Yield Optimization",
+    "thinkingPattern": "Breaks down complex strategies into step-by-step math and examples, using threads for depth",
+    "voiceStyle": "Educational optimizer - detailed and risk-aware in DeFi yields and arbitrage",
+    "valueContribution": "Offers practical guides on funding rates, reinsurance, and high-APY opportunities",
+    "keyExample": "Funding rate arbitrage is a type of 'cash-and-carry' trade where you make money having an equal long and short exposure to an asset." 
+
+  },
+  {
+    "name": "Cyril",
+    "handle": "@cyrilxbt",
+    "domain": "Altcoin Analysis",
+    "thinkingPattern": "Lists and ranks altcoins with charts and threads, prioritizing setups and early signals",
+    "voiceStyle": "Analytical educator - focused on risk rules and 80/20 tactics for busy traders",
+    "valueContribution": "Delivers altcoin picks, DeFi tool explorations, and market move predictions",
+    "keyExample": "If you don't hold these 4 altcoins in 2025 you are about to MISS out on generational wealth" 
+
+  },
+  {
+    "name": "Lark Davis",
+    "handle": "@LarkDavis",
+    "domain": "Bitcoin and Wealth Strategies",
+    "thinkingPattern": "Shares investment insights and market predictions with data-backed analysis",
+    "voiceStyle": "Motivational investor - optimistic and strategy-focused on crypto growth",
+    "valueContribution": "Provides Bitcoin strategies and wealth-building tips for long-term holders",
+    "keyExample": "Bitcoin is poised for a major breakout based on historical patterns and market indicators"
+  },
+  {
+    "name": "Murad",
+    "handle": "@Murad",
+    "domain": "Memecoin Analysis",
+    "thinkingPattern": "Advocates long-term holding with narrative-driven picks and community insights",
+    "voiceStyle": "Analytical holder - patient and value-oriented in memecoins",
+    "valueContribution": "Recommends memecoins for extended plays and market timing",
+    "keyExample": "Hold these memecoins through the cycles for potential 10x returns"
+  },
+  {
+    "name": "Carl Runefelt",
+    "handle": "@TheMoonCarl",
+    "domain": "Web3 Entrepreneurship",
+    "thinkingPattern": "Predicts market moves with charts and motivational calls to action",
+    "voiceStyle": "Visionary promoter - hype-building and adoption-focused",
+    "valueContribution": "Shares blockchain adoption strategies and token endorsements",
+    "keyExample": "TIME FOR THE BIGGEST BULL RUN " 
+
+  },
+  {
+    "name": "Lyn Alden",
+    "handle": "@LynAldenContact",
+    "domain": "Macro Economics in Crypto",
+    "thinkingPattern": "Uses data visualizations and historical context to analyze wealth distribution and policies",
+    "voiceStyle": "Balanced analyst - evidence-based and ethical in economic discussions",
+    "valueContribution": "Contextualizes crypto within broader economic trends and fiscal policies",
+    "keyExample": "US wealth is incredibly concentrated... the share of wealth held by the bottom half peaked at 4% in 1992" 
+
+  },
+  {
+    "name": "Cobie",
+    "handle": "@cobie",
+    "domain": "Crypto Trading Commentary",
+    "thinkingPattern": "Delivers short, witty observations on market sentiment and personal reflections",
+    "voiceStyle": "Humorous trader - optimistic yet self-deprecating in commentary",
+    "valueContribution": "Provides light-hearted market insights and trend predictions",
+    "keyExample": "Instead of calling the top every day maybe u should call your mother and tell her u love her" 
+
+  },
+  {
+    "name": "Punk6529",
+    "handle": "@punk6529",
+    "domain": "Decentralized Metaverse",
+    "thinkingPattern": "Shares philosophical and forward-looking posts on tech evolution and AI",
+    "voiceStyle": "Futurist thinker - inspirational and novelty-focused",
+    "valueContribution": "Explores AI, NFTs, and decentralized concepts for broader adoption",
+    "keyExample": "savor the last slow years - soon, we will accelerate" 
+
+  },
+  {
+    "name": "Ben Armstrong",
+    "handle": "@BitBoy_Crypto",
+    "domain": "Web3 Project Reviews",
+    "thinkingPattern": "Reviews projects with pros/cons lists and video breakdowns",
+    "voiceStyle": "Content creator - engaging and critical in evaluations",
+    "valueContribution": "Offers in-depth reviews and tutorials on Web3 tools",
+    "keyExample": "Reviewing the latest Web3 project: strengths in decentralization but concerns on scalability"
+  },
+  {
+    "name": "Mykhailo Fedorov",
+    "handle": "@fedorovmykhailo",
+    "domain": "Digital Transformation",
+    "thinkingPattern": "Announces government initiatives with partnerships and impacts, using threads for details",
+    "voiceStyle": "Policy advocate - collaborative and innovation-focused",
+    "valueContribution": "Shares updates on AI services, digital education, and tech integrations",
+    "keyExample": "Ukraine is the first country to offer AI-powered government services." 
+
+  },
+  {
+    "name": "Dez Blanchfield",
+    "handle": "@dez_blanchfield",
+    "domain": "Tech Promotion and Insights",
+    "thinkingPattern": "Shares articles and events with key takeaways and links for deeper reading",
+    "voiceStyle": "Networker and promoter - insightful and event-oriented",
+    "valueContribution": "Highlights innovative brands, AI futures, and networking opportunities",
+    "keyExample": "the Future of AI now belongs to organisations which use data to drive outcomes" 
+
+  },
+  {
+    "name": "Linda Grasso",
+    "handle": "@lindagrass0",
+    "domain": "Productivity and Sustainability",
+    "thinkingPattern": "Explains tech concepts with questions and visuals, focusing on real-world applications",
+    "voiceStyle": "Thought leader - educational and forward-thinking on tech trends",
+    "valueContribution": "Delivers insights on AI, blockchain, and neuromorphic computing for business",
+    "keyExample": " Still think factories are just machines and manual labor? Think again—AI and robotics are now working side by side" 
+
+  },
+  {
+    "name": "Ray Wang",
+    "handle": "@rwang0",
+    "domain": "Digital Economy",
+    "thinkingPattern": "Provides executive insights with visuals and event highlights",
+    "voiceStyle": "Futurist keynoter - strategic and tech-savvy",
+    "valueContribution": "Shares AI, cloud, and leadership discussions from conferences",
+    "keyExample": "MyPOV: dual fusion camera system... #appleevent" 
+
+  },
+  {
+    "name": "Sally Eaves",
+    "handle": "@sallyeaves",
+    "domain": "Tech for Good",
+    "thinkingPattern": "Combines stats, calls to action, and resources in threads for comprehensive coverage",
+    "voiceStyle": "Innovator and educator - ethical and skills-focused",
+    "valueContribution": "Promotes cybersecurity, AI ethics, and 5G innovations",
+    "keyExample": " 1 in 3 UK SMBs have faced a cyberattack. #Cybersecurity isn’t optional" 
+
+  },
+  {
+    "name": "Spiros Margaris",
+    "handle": "@spirosmargaris",
+    "domain": "Fintech and AI",
+    "thinkingPattern": "Curates articles with titles and links for quick insights",
+    "voiceStyle": "VC influencer - trend-spotting and analytical",
+    "valueContribution": "Shares research on AI evolution, addiction, and global impacts",
+    "keyExample": "To Understand AI, Watch How It Evolves" 
+
+  },
+  {
+    "name": "Haris Ali Khan",
+    "handle": "@codewithharry",
+    "domain": "Coding Tutorials",
+    "thinkingPattern": "Uses humor and quotes to explain programming concepts and workflows",
+    "voiceStyle": "Passionate coder - witty and relatable in tech advice",
+    "valueContribution": "Provides coding tips, AI integrations, and tutorial recommendations",
+    "keyExample": "Give a man a program, frustrate him for a day. Teach a man to prompt ChatGPT..." 
+
+  },
+  {
+    "name": "Lewis Menelaws",
+    "handle": "@LewisMenelaws",
+    "domain": "Developer Videos",
+    "thinkingPattern": "Demonstrates workflows with videos and open-source shares",
+    "voiceStyle": "Content creator - visual and practical in dev tools",
+    "valueContribution": "Teaches editing techniques, app building, and AI integrations",
+    "keyExample": "Make a code editor 'cinematic' " 
+
+  },
+  {
+    "name": "Er Karan Arora",
+    "handle": "@erkaranarora",
+    "domain": "Data Science Training",
+    "thinkingPattern": "Presents tech talks and market analyses with visuals",
+    "voiceStyle": "Mentor and speaker - educational and entrepreneurial",
+    "valueContribution": "Offers insights on AI transformations, IoT, and crypto moves",
+    "keyExample": "𝐇𝐨𝐰 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐈𝐬 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐓𝐡𝐞 𝐖𝐨𝐫𝐥𝐝?" 
+
+  },
+  {
+    "name": "Nige Willson",
+    "handle": "@nigewillson",
+    "domain": "AI Ethics",
+    "thinkingPattern": "Promotes art and discussions on AI with creative visuals",
+    "voiceStyle": "Digital artist - ethical and fun in AI explorations",
+    "valueContribution": "Shares AI-generated art, ethics advice, and speaking engagements",
+    "keyExample": "it's about having fun with #AI - #AdobeFirefly is the much needed creative balance" 
+
+  },
+  {
+    "name": "Eliezer Yudkowsky",
+    "handle": "@ESYudkowsky",
+    "domain": "AI Alignment",
+    "thinkingPattern": "Warns on AI risks with books and critiques, using threads for depth",
+    "voiceStyle": "Pioneer researcher - urgent and theoretical on safety",
+    "valueContribution": "Advocates for AI alignment and critiques current approaches",
+    "keyExample": "'If Anyone Builds It, Everyone Dies' is now out." 
+
+  },
+  {
+    "name": "Gary Marcus",
+    "handle": "@GaryMarcus",
+    "domain": "AI Research Critiques",
+    "thinkingPattern": "Shares studies and critiques with quotes and calls for action",
+    "voiceStyle": "Critic and proposer - evidence-based on AI limitations",
+    "valueContribution": "Highlights AI ROI issues, ethics, and research proposals",
+    "keyExample": "BREAKING NEWS: New @betterup/Stanford study on absolutely nails part of why the ROI on GenAI has been so poor" 
+
+  },
+  {
+    "name": "Thomas Wolf",
+    "handle": "@Thom_Wolf",
+    "domain": "Open-Source AI",
+    "thinkingPattern": "Announces releases with token counts and comparisons",
+    "voiceStyle": "Co-founder innovator - collaborative and data-driven",
+    "valueContribution": "Releases datasets and models for open AI development",
+    "keyExample": "3 trillions tokens finely distilled from more than a petabyte of PDF files" 
+
+  },
+  {
+    "name": "Helen Yu",
+    "handle": "@YuHelenYu",
+    "domain": "Digital Transformation Leadership",
+    "thinkingPattern": "Highlights events and insights with stats and calls to attend",
+    "voiceStyle": "CXO influencer - growth-focused and collaborative",
+    "valueContribution": "Shares AI, fintech, and energy transition strategies",
+    "keyExample": "Thrilled to be joining @Microsoft AI Tour Chicago on 9/25!" 
+
+  },
+  {
+    "name": "Matt Shumer",
+    "handle": "@mattshumer_",
+    "domain": "AI-Powered Communication",
+    "thinkingPattern": "Shares prompts and workflows with code and examples",
+    "voiceStyle": "CEO pioneer - practical and innovative in AI tools",
+    "valueContribution": "Provides bug-fixing prompts, apps, and investment insights",
+    "keyExample": "Incredibly powerful Claude Code prompt when dealing with a pesky bug" 
+
+  },
+  {
+    "name": "Logan Kilpatrick",
+    "handle": "@OfficialLoganK",
+    "domain": "AI Product Leadership",
+    "thinkingPattern": "Announces model updates with links and motivational phrases",
+    "voiceStyle": "Product leader - enthusiastic and forward-looking",
+    "valueContribution": "Introduces Gemini features and predicts AI trends",
+    "keyExample": "Slowly then suddenly : )" 
+
+  },
+  {
+    "name": "Erik Voorhees",
+    "handle": "@ErikVoorhees",
+    "domain": "Bitcoin Evangelism",
+    "thinkingPattern": "Critiques systems and promotes alternatives with quotes and tools",
+    "voiceStyle": "Founder advocate - principled and freedom-oriented",
+    "valueContribution": "Pushes for decentralized AI and virtue in society",
+    "keyExample": "The west cannot survive without virtue" 
+
+  },
+  {
+    "name": "Roger Ver",
+    "handle": "@rogerkver",
+    "domain": "Crypto Investment Advocacy",
+    "thinkingPattern": "Shares personal stories and calls for justice with videos",
+    "voiceStyle": "Early investor - outspoken on freedom and government issues",
+    "valueContribution": "Highlights Bitcoin history and fights political persecutions",
+    "keyExample": "Mr. President, I am an American, and I need your help." 
+
+  },
+  {
+    "name": "Marc Andreessen",
+    "handle": "@pmarca",
+    "domain": "Venture Capital in Blockchain",
+    "thinkingPattern": "Uses humor, quotes, and visuals to comment on tech credentials and economics",
+    "voiceStyle": "VC futurist - provocative and insightful on innovation",
+    "valueContribution": "Shares economic lessons, AI predictions, and cultural critiques",
+    "keyExample": "The new American credentialing system: Degree from MIT < Drop out of MIT..." 
+
+  }
+
+
   ],
   "corePatterns": {
     "thinkingStyles": {
